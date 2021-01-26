@@ -4,6 +4,7 @@ import (
 	"go.etcd.io/etcd/clientv3"
 	"go.etcd.io/etcd/clientv3/concurrency"
 	// "go.etcd.io/etcd/client/v3/experimental/recipes"
+	"github.com/sreeja/etcd-exp/rwlock"
 
 	// "fmt"
 	"log"
@@ -37,7 +38,7 @@ func main() {
 	defer session.Close()
 
 	start := time.Now()
-	l1 := NewRWMutex(session, "lock1")
+	l1 := rwlock.NewRWMutex(session, "lock1")
 	t := time.Now()
 	elapsed := t.Sub(start)
 	log.Println("time to create lock object:", elapsed)
@@ -67,7 +68,7 @@ func main() {
 		time.Sleep(5 * time.Millisecond)
 	}
 
-	l2 := NewRWMutex(session, "lock1")
+	l2 := rwlock.NewRWMutex(session, "lock1")
 
 	for i := 0; i <= 1000; i++ {
 		start = time.Now()
