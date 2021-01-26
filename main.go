@@ -13,7 +13,7 @@ import (
 )
 
 func main() {
-	filename := os.Args[1]
+	filename := "log" + os.Args[1]
 	f, err := os.OpenFile(filename, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		log.Fatalf("error opening file: %v", err)
@@ -23,7 +23,7 @@ func main() {
 	log.SetOutput(f)
 
 	log.Println("CREATE CLIENT")
-	cli, err := clientv3.New(clientv3.Config{Endpoints: []string{"etcd-0:2379"}})
+	cli, err := clientv3.New(clientv3.Config{Endpoints: []string{"etcd-" + os.Args[1] + ":2379"}})
 	if err != nil {
 		log.Fatal(err)
 	}

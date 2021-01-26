@@ -1,0 +1,2304 @@
+CREATE CLIENT
+CREATE SESSION
+CREATE CLIENT
+CREATE SESSION
+CREATE CLIENT
+CREATE SESSION
+time to create lock object: 1.222µs
+time to acquire read lock : 136.345867ms
+time to release read lock : 37.381311ms
+time to acquire read lock : 39.158208ms
+time to release read lock : 26.314427ms
+time to acquire read lock : 61.519971ms
+time to release read lock : 21.859075ms
+time to acquire read lock : 52.212413ms
+time to release read lock : 32.316193ms
+time to acquire read lock : 188.694965ms
+time to release read lock : 67.345249ms
+time to acquire read lock : 138.97104ms
+time to release read lock : 55.573934ms
+time to acquire read lock : 197.193446ms
+time to release read lock : 54.03316ms
+time to acquire read lock : 123.15239ms
+time to release read lock : 40.384891ms
+time to acquire read lock : 84.777014ms
+time to release read lock : 48.860209ms
+time to acquire read lock : 121.795269ms
+time to release read lock : 45.642632ms
+time to acquire read lock : 183.495549ms
+time to release read lock : 33.912259ms
+time to acquire read lock : 82.029458ms
+time to release read lock : 73.469321ms
+time to acquire read lock : 88.456557ms
+time to release read lock : 31.895907ms
+time to acquire read lock : 101.199738ms
+time to release read lock : 44.347864ms
+time to acquire read lock : 78.093195ms
+time to release read lock : 37.913239ms
+time to acquire read lock : 130.157043ms
+time to release read lock : 31.45113ms
+time to acquire read lock : 178.996056ms
+time to release read lock : 44.887242ms
+time to acquire read lock : 105.822777ms
+time to release read lock : 41.885273ms
+time to acquire read lock : 78.224992ms
+time to release read lock : 27.130061ms
+time to acquire read lock : 127.933445ms
+time to release read lock : 49.894211ms
+time to acquire read lock : 129.541338ms
+time to release read lock : 51.230208ms
+time to acquire read lock : 113.590662ms
+time to release read lock : 43.976007ms
+time to acquire read lock : 108.796011ms
+time to release read lock : 58.574422ms
+time to acquire read lock : 121.506778ms
+time to release read lock : 52.048791ms
+time to acquire read lock : 76.968135ms
+time to release read lock : 32.603273ms
+time to acquire read lock : 80.476526ms
+time to release read lock : 37.225366ms
+time to acquire read lock : 85.653842ms
+time to release read lock : 64.566414ms
+time to acquire read lock : 75.190918ms
+time to release read lock : 67.812643ms
+time to acquire read lock : 139.327795ms
+time to release read lock : 35.034736ms
+time to acquire read lock : 155.730215ms
+time to release read lock : 43.048448ms
+time to acquire read lock : 116.563221ms
+time to release read lock : 36.599551ms
+time to acquire read lock : 92.074257ms
+time to release read lock : 53.743755ms
+time to acquire read lock : 90.565654ms
+time to release read lock : 68.517103ms
+time to acquire read lock : 114.461512ms
+time to release read lock : 41.367677ms
+time to acquire read lock : 174.133741ms
+time to release read lock : 111.241687ms
+time to acquire read lock : 155.178713ms
+time to release read lock : 31.090795ms
+time to acquire read lock : 67.873624ms
+time to release read lock : 70.417192ms
+time to acquire read lock : 127.226653ms
+time to release read lock : 61.431259ms
+time to acquire read lock : 95.694162ms
+time to release read lock : 36.430275ms
+time to acquire read lock : 130.953488ms
+time to release read lock : 38.127921ms
+time to acquire read lock : 236.961616ms
+time to release read lock : 89.912863ms
+time to acquire read lock : 174.834678ms
+time to release read lock : 99.63933ms
+time to acquire read lock : 116.563095ms
+time to release read lock : 77.853144ms
+time to acquire read lock : 145.782484ms
+time to release read lock : 112.561937ms
+time to acquire read lock : 160.385489ms
+time to release read lock : 46.650372ms
+time to acquire read lock : 110.662904ms
+time to release read lock : 60.524421ms
+time to acquire read lock : 109.212435ms
+time to release read lock : 92.163059ms
+time to acquire read lock : 80.609876ms
+time to release read lock : 56.377502ms
+time to acquire read lock : 149.484326ms
+time to release read lock : 42.050814ms
+time to acquire read lock : 96.163233ms
+time to release read lock : 53.717184ms
+time to acquire read lock : 78.632821ms
+time to release read lock : 39.757016ms
+time to acquire read lock : 96.936682ms
+time to release read lock : 63.591789ms
+time to acquire read lock : 74.661049ms
+time to release read lock : 48.053037ms
+time to acquire read lock : 85.597112ms
+time to release read lock : 53.359316ms
+time to acquire read lock : 169.680478ms
+time to release read lock : 43.555526ms
+time to acquire read lock : 101.986716ms
+time to release read lock : 36.200934ms
+time to acquire read lock : 122.426219ms
+time to release read lock : 109.253589ms
+time to acquire read lock : 116.320156ms
+time to release read lock : 34.33081ms
+time to acquire read lock : 95.451289ms
+time to release read lock : 60.537037ms
+time to acquire read lock : 88.853525ms
+time to release read lock : 102.352543ms
+time to acquire read lock : 163.46635ms
+time to release read lock : 43.820124ms
+time to acquire read lock : 137.939973ms
+time to release read lock : 67.489623ms
+time to acquire read lock : 101.37473ms
+time to release read lock : 33.681302ms
+time to acquire read lock : 101.494723ms
+time to release read lock : 32.677093ms
+time to acquire read lock : 96.186222ms
+time to release read lock : 49.242936ms
+time to acquire read lock : 125.640665ms
+time to release read lock : 49.587756ms
+time to acquire read lock : 71.663603ms
+time to release read lock : 34.661458ms
+time to acquire read lock : 91.509446ms
+time to release read lock : 24.90105ms
+time to acquire read lock : 88.082491ms
+time to release read lock : 50.366721ms
+time to acquire read lock : 110.285938ms
+time to release read lock : 40.154587ms
+time to acquire read lock : 90.501269ms
+time to release read lock : 46.542906ms
+time to acquire read lock : 153.053634ms
+time to release read lock : 204.562587ms
+time to acquire read lock : 91.982536ms
+time to release read lock : 40.39272ms
+time to acquire read lock : 110.381964ms
+time to release read lock : 63.518982ms
+time to acquire read lock : 116.792174ms
+time to release read lock : 66.348559ms
+time to acquire read lock : 138.305221ms
+time to release read lock : 56.517625ms
+time to acquire read lock : 232.344781ms
+time to release read lock : 31.565826ms
+time to acquire read lock : 138.732206ms
+time to release read lock : 59.493282ms
+time to acquire read lock : 106.750084ms
+time to release read lock : 56.774587ms
+time to acquire read lock : 135.636297ms
+time to release read lock : 44.669378ms
+time to acquire read lock : 128.328125ms
+time to release read lock : 52.101832ms
+time to acquire read lock : 172.413969ms
+time to release read lock : 57.337469ms
+time to acquire read lock : 124.504006ms
+time to release read lock : 32.841852ms
+time to acquire read lock : 95.2144ms
+time to release read lock : 50.754562ms
+time to acquire read lock : 340.866702ms
+time to release read lock : 45.956994ms
+time to acquire read lock : 119.728939ms
+time to release read lock : 49.83666ms
+time to acquire read lock : 108.234543ms
+time to release read lock : 46.213171ms
+time to acquire read lock : 145.410583ms
+time to release read lock : 42.986225ms
+time to acquire read lock : 131.694511ms
+time to release read lock : 70.228534ms
+time to acquire read lock : 115.105023ms
+time to release read lock : 73.182377ms
+time to acquire read lock : 113.171936ms
+time to release read lock : 77.785146ms
+time to acquire read lock : 204.457115ms
+time to release read lock : 149.821513ms
+time to acquire read lock : 235.65064ms
+time to release read lock : 83.66043ms
+time to acquire read lock : 108.984994ms
+time to release read lock : 49.950682ms
+time to acquire read lock : 239.853388ms
+time to release read lock : 42.142777ms
+time to acquire read lock : 102.102541ms
+time to release read lock : 54.618086ms
+time to acquire read lock : 125.644453ms
+time to release read lock : 74.224983ms
+time to acquire read lock : 108.249798ms
+time to release read lock : 58.72007ms
+time to acquire read lock : 104.099141ms
+time to release read lock : 72.673722ms
+time to acquire read lock : 186.612654ms
+time to release read lock : 41.134223ms
+time to acquire read lock : 182.617349ms
+time to release read lock : 76.456779ms
+time to acquire read lock : 122.909651ms
+time to release read lock : 52.734972ms
+time to acquire read lock : 142.595394ms
+time to release read lock : 59.699381ms
+time to acquire read lock : 94.108816ms
+time to release read lock : 56.625916ms
+time to acquire read lock : 133.906376ms
+time to release read lock : 32.84546ms
+time to acquire read lock : 91.812388ms
+time to release read lock : 37.276938ms
+time to acquire read lock : 100.791744ms
+time to release read lock : 63.772831ms
+time to acquire read lock : 112.438981ms
+time to release read lock : 69.554634ms
+time to acquire read lock : 149.132224ms
+time to release read lock : 30.54502ms
+time to acquire read lock : 182.829405ms
+time to release read lock : 62.742823ms
+time to acquire read lock : 106.642767ms
+time to release read lock : 65.094878ms
+time to acquire read lock : 122.432067ms
+time to release read lock : 65.453303ms
+time to acquire read lock : 92.163418ms
+time to release read lock : 67.466695ms
+time to acquire read lock : 108.783922ms
+time to release read lock : 56.036647ms
+time to acquire read lock : 218.537346ms
+time to release read lock : 70.526743ms
+time to acquire read lock : 155.366085ms
+time to release read lock : 68.775842ms
+time to acquire read lock : 108.648799ms
+time to release read lock : 52.008833ms
+time to acquire read lock : 103.735588ms
+time to release read lock : 57.271245ms
+time to acquire read lock : 153.740608ms
+time to release read lock : 47.212782ms
+time to acquire read lock : 171.749716ms
+time to release read lock : 63.353301ms
+time to acquire read lock : 96.938766ms
+time to release read lock : 37.152214ms
+time to acquire read lock : 111.256904ms
+time to release read lock : 60.261426ms
+time to acquire read lock : 121.041784ms
+time to release read lock : 48.056527ms
+time to acquire read lock : 109.742461ms
+time to release read lock : 39.218808ms
+time to acquire read lock : 116.87874ms
+time to release read lock : 35.106278ms
+time to acquire read lock : 112.059474ms
+time to release read lock : 32.30125ms
+time to acquire read lock : 222.195771ms
+time to release read lock : 45.844276ms
+time to acquire read lock : 275.36786ms
+time to release read lock : 72.835995ms
+time to acquire read lock : 135.697802ms
+time to release read lock : 58.754055ms
+time to acquire read lock : 141.864166ms
+time to release read lock : 49.92853ms
+time to acquire read lock : 70.629466ms
+time to release read lock : 48.429564ms
+time to acquire read lock : 86.359659ms
+time to release read lock : 35.55845ms
+time to acquire read lock : 115.086055ms
+time to release read lock : 61.671602ms
+time to acquire read lock : 95.591149ms
+time to release read lock : 77.221201ms
+time to acquire read lock : 215.264967ms
+time to release read lock : 56.439675ms
+time to acquire read lock : 112.587076ms
+time to release read lock : 38.903265ms
+time to acquire read lock : 89.050381ms
+time to release read lock : 46.901644ms
+time to acquire read lock : 114.657571ms
+time to release read lock : 26.698061ms
+time to acquire read lock : 78.726686ms
+time to release read lock : 39.745726ms
+time to acquire read lock : 109.043015ms
+time to release read lock : 46.429288ms
+time to acquire read lock : 140.528863ms
+time to release read lock : 49.493745ms
+time to acquire read lock : 90.937642ms
+time to release read lock : 59.798915ms
+time to acquire read lock : 102.220525ms
+time to release read lock : 42.873098ms
+time to acquire read lock : 89.709826ms
+time to release read lock : 33.328307ms
+time to acquire read lock : 94.520281ms
+time to release read lock : 50.080317ms
+time to acquire read lock : 63.619579ms
+time to release read lock : 35.695168ms
+time to acquire read lock : 110.941672ms
+time to release read lock : 71.373094ms
+time to acquire read lock : 103.729589ms
+time to release read lock : 23.679715ms
+time to acquire read lock : 87.168894ms
+time to release read lock : 60.134931ms
+time to acquire read lock : 92.414078ms
+time to release read lock : 46.381904ms
+time to acquire read lock : 78.093108ms
+time to release read lock : 24.75249ms
+time to acquire read lock : 141.792038ms
+time to release read lock : 45.553058ms
+time to acquire read lock : 105.38982ms
+time to release read lock : 44.677847ms
+time to acquire read lock : 134.129435ms
+time to release read lock : 41.169239ms
+time to acquire read lock : 68.622794ms
+time to release read lock : 33.083174ms
+time to acquire read lock : 77.447167ms
+time to release read lock : 51.338688ms
+time to acquire read lock : 103.095466ms
+time to release read lock : 61.66537ms
+time to acquire read lock : 102.462415ms
+time to release read lock : 49.042694ms
+time to acquire read lock : 93.716347ms
+time to release read lock : 60.037849ms
+time to acquire read lock : 168.962639ms
+time to release read lock : 92.435817ms
+time to acquire read lock : 130.418027ms
+time to release read lock : 62.994946ms
+time to acquire read lock : 111.178371ms
+time to release read lock : 65.011099ms
+time to acquire read lock : 147.659815ms
+time to release read lock : 55.580362ms
+time to acquire read lock : 137.062067ms
+time to release read lock : 87.689323ms
+time to acquire read lock : 168.235535ms
+time to release read lock : 57.903557ms
+time to acquire read lock : 137.102539ms
+time to release read lock : 31.370277ms
+time to acquire read lock : 127.98272ms
+time to release read lock : 31.337888ms
+time to acquire read lock : 109.153766ms
+time to release read lock : 35.24368ms
+time to acquire read lock : 89.43084ms
+time to release read lock : 45.683815ms
+time to acquire read lock : 89.991002ms
+time to release read lock : 59.288823ms
+time to acquire read lock : 88.505277ms
+time to release read lock : 51.188465ms
+time to acquire read lock : 101.974644ms
+time to release read lock : 50.494543ms
+time to acquire read lock : 115.090575ms
+time to release read lock : 136.762477ms
+time to acquire read lock : 153.463619ms
+time to release read lock : 39.165592ms
+time to acquire read lock : 80.534986ms
+time to release read lock : 36.507673ms
+time to acquire read lock : 106.910934ms
+time to release read lock : 44.105975ms
+time to acquire read lock : 167.004032ms
+time to release read lock : 61.985449ms
+time to acquire read lock : 95.841772ms
+time to release read lock : 76.627809ms
+time to acquire read lock : 86.970974ms
+time to release read lock : 68.49552ms
+time to acquire read lock : 119.683131ms
+time to release read lock : 44.832099ms
+time to acquire read lock : 167.611086ms
+time to release read lock : 64.145117ms
+time to acquire read lock : 150.456632ms
+time to release read lock : 46.124001ms
+time to acquire read lock : 110.170514ms
+time to release read lock : 58.724827ms
+time to acquire read lock : 84.542221ms
+time to release read lock : 44.484959ms
+time to acquire read lock : 116.66874ms
+time to release read lock : 51.506689ms
+time to acquire read lock : 118.217831ms
+time to release read lock : 88.934448ms
+time to acquire read lock : 146.244344ms
+time to release read lock : 38.045018ms
+time to acquire read lock : 96.18232ms
+time to release read lock : 41.960452ms
+time to acquire read lock : 130.402935ms
+time to release read lock : 125.070113ms
+time to acquire read lock : 126.358922ms
+time to release read lock : 62.088973ms
+time to acquire read lock : 101.481377ms
+time to release read lock : 63.934491ms
+time to acquire read lock : 97.15339ms
+time to release read lock : 31.290236ms
+time to acquire read lock : 109.860668ms
+time to release read lock : 66.199484ms
+time to acquire read lock : 118.201029ms
+time to release read lock : 51.601422ms
+time to acquire read lock : 181.780836ms
+time to release read lock : 42.901281ms
+time to acquire read lock : 102.292103ms
+time to release read lock : 47.482098ms
+time to acquire read lock : 225.673967ms
+time to release read lock : 54.285787ms
+time to acquire read lock : 100.358916ms
+time to release read lock : 47.054398ms
+time to acquire read lock : 78.626045ms
+time to release read lock : 69.583731ms
+time to acquire read lock : 103.006046ms
+time to release read lock : 34.954957ms
+time to acquire read lock : 129.53078ms
+time to release read lock : 34.487959ms
+time to acquire read lock : 81.68677ms
+time to release read lock : 81.05111ms
+time to acquire read lock : 263.942039ms
+time to release read lock : 77.476262ms
+time to acquire read lock : 92.904039ms
+time to release read lock : 54.175549ms
+time to acquire read lock : 96.984065ms
+time to release read lock : 55.217682ms
+time to acquire read lock : 85.945664ms
+time to release read lock : 41.833819ms
+time to acquire read lock : 87.924903ms
+time to release read lock : 99.650211ms
+time to acquire read lock : 99.264129ms
+time to release read lock : 37.916896ms
+time to acquire read lock : 105.582969ms
+time to release read lock : 54.14351ms
+time to acquire read lock : 81.419831ms
+time to release read lock : 57.563348ms
+time to acquire read lock : 107.214807ms
+time to release read lock : 48.279769ms
+time to acquire read lock : 102.944305ms
+time to release read lock : 28.402728ms
+time to acquire read lock : 49.871472ms
+time to release read lock : 44.055703ms
+time to acquire read lock : 147.88092ms
+time to release read lock : 46.788086ms
+time to acquire read lock : 75.319518ms
+time to release read lock : 61.515506ms
+time to acquire read lock : 121.348643ms
+time to release read lock : 68.734436ms
+time to acquire read lock : 120.483184ms
+time to release read lock : 63.733183ms
+time to acquire read lock : 67.00086ms
+time to release read lock : 129.230589ms
+time to acquire read lock : 119.902172ms
+time to release read lock : 71.772178ms
+time to acquire read lock : 214.773314ms
+time to release read lock : 38.31033ms
+time to acquire read lock : 181.37126ms
+time to release read lock : 33.423733ms
+time to acquire read lock : 77.428837ms
+time to release read lock : 48.848443ms
+time to acquire read lock : 124.03576ms
+time to release read lock : 59.147483ms
+time to acquire read lock : 172.051011ms
+time to release read lock : 93.300264ms
+time to acquire read lock : 129.842902ms
+time to release read lock : 79.45639ms
+time to acquire read lock : 84.853698ms
+time to release read lock : 61.50946ms
+time to acquire read lock : 160.215521ms
+time to release read lock : 72.801209ms
+time to acquire read lock : 119.717815ms
+time to release read lock : 44.229482ms
+time to acquire read lock : 127.880837ms
+time to release read lock : 57.807665ms
+time to acquire read lock : 125.309126ms
+time to release read lock : 65.97098ms
+time to acquire read lock : 99.237289ms
+time to release read lock : 103.061355ms
+time to acquire read lock : 146.673477ms
+time to release read lock : 61.750697ms
+time to acquire read lock : 114.857922ms
+time to release read lock : 49.485414ms
+time to acquire read lock : 112.149253ms
+time to release read lock : 45.173388ms
+time to acquire read lock : 98.163526ms
+time to release read lock : 51.586829ms
+time to acquire read lock : 95.99641ms
+time to release read lock : 54.103631ms
+time to acquire read lock : 84.294657ms
+time to release read lock : 54.283877ms
+time to acquire read lock : 84.234134ms
+time to release read lock : 62.007756ms
+time to acquire read lock : 73.366179ms
+time to release read lock : 30.026274ms
+time to acquire read lock : 118.095771ms
+time to release read lock : 41.214889ms
+time to acquire read lock : 110.772989ms
+time to release read lock : 32.443821ms
+time to acquire read lock : 82.968259ms
+time to release read lock : 27.858263ms
+time to acquire read lock : 81.111548ms
+time to release read lock : 42.989183ms
+time to acquire read lock : 110.526876ms
+time to release read lock : 51.22853ms
+time to acquire read lock : 115.421972ms
+time to release read lock : 32.684116ms
+time to acquire read lock : 96.968649ms
+time to release read lock : 63.473759ms
+time to acquire read lock : 184.384361ms
+time to release read lock : 29.573183ms
+time to acquire read lock : 134.010384ms
+time to release read lock : 55.042021ms
+time to acquire read lock : 98.13397ms
+time to release read lock : 50.775193ms
+time to acquire read lock : 94.483511ms
+time to release read lock : 43.17201ms
+time to acquire read lock : 77.950891ms
+time to release read lock : 81.476029ms
+time to acquire read lock : 84.12694ms
+time to release read lock : 166.265534ms
+time to acquire read lock : 136.008721ms
+time to release read lock : 59.954319ms
+time to acquire read lock : 85.94552ms
+time to release read lock : 65.52016ms
+time to acquire read lock : 121.198206ms
+time to release read lock : 61.788831ms
+time to acquire read lock : 132.736596ms
+time to release read lock : 30.467001ms
+time to acquire read lock : 82.834226ms
+time to release read lock : 52.270705ms
+time to acquire read lock : 89.463651ms
+time to release read lock : 50.655081ms
+time to acquire read lock : 123.801426ms
+time to release read lock : 37.152013ms
+time to acquire read lock : 85.631653ms
+time to release read lock : 46.561283ms
+time to acquire read lock : 79.775554ms
+time to release read lock : 72.730125ms
+time to acquire read lock : 78.844044ms
+time to release read lock : 51.367796ms
+time to acquire read lock : 110.628568ms
+time to release read lock : 27.222171ms
+time to acquire read lock : 193.563556ms
+time to release read lock : 66.153043ms
+time to acquire read lock : 84.808678ms
+time to release read lock : 40.266747ms
+time to acquire read lock : 104.885441ms
+time to release read lock : 52.934647ms
+time to acquire read lock : 103.543097ms
+time to release read lock : 50.366953ms
+time to acquire read lock : 128.480409ms
+time to release read lock : 27.286335ms
+time to acquire read lock : 89.745805ms
+time to release read lock : 28.364491ms
+time to acquire read lock : 199.048159ms
+time to release read lock : 52.751598ms
+time to acquire read lock : 74.606828ms
+time to release read lock : 45.379017ms
+time to acquire read lock : 101.902585ms
+time to release read lock : 49.519187ms
+time to acquire read lock : 90.070229ms
+time to release read lock : 56.278577ms
+time to acquire read lock : 115.161722ms
+time to release read lock : 48.680495ms
+time to acquire read lock : 81.246694ms
+time to release read lock : 88.16455ms
+time to acquire read lock : 99.716417ms
+time to release read lock : 56.059624ms
+time to acquire read lock : 80.309429ms
+time to release read lock : 47.30028ms
+time to acquire read lock : 103.683345ms
+time to release read lock : 42.971658ms
+time to acquire read lock : 137.991834ms
+time to release read lock : 51.065128ms
+time to acquire read lock : 107.848557ms
+time to release read lock : 66.054765ms
+time to acquire read lock : 79.277837ms
+time to release read lock : 60.850116ms
+time to acquire read lock : 154.787304ms
+time to release read lock : 90.103886ms
+time to acquire read lock : 152.360202ms
+time to release read lock : 32.710019ms
+time to acquire read lock : 84.153204ms
+time to release read lock : 45.789825ms
+time to acquire read lock : 126.126273ms
+time to release read lock : 51.054421ms
+time to acquire read lock : 96.235481ms
+time to release read lock : 55.160982ms
+time to acquire read lock : 91.523629ms
+time to release read lock : 45.59354ms
+time to acquire read lock : 109.387983ms
+time to release read lock : 49.908315ms
+time to acquire read lock : 208.707775ms
+time to release read lock : 87.02563ms
+time to acquire read lock : 115.598844ms
+time to release read lock : 78.766193ms
+time to acquire read lock : 128.020249ms
+time to release read lock : 163.209149ms
+time to acquire read lock : 95.754035ms
+time to release read lock : 43.906496ms
+time to acquire read lock : 77.37781ms
+time to release read lock : 65.412338ms
+time to acquire read lock : 75.732029ms
+time to release read lock : 49.994654ms
+time to acquire read lock : 93.700007ms
+time to release read lock : 46.513268ms
+time to acquire read lock : 90.306068ms
+time to release read lock : 29.724692ms
+time to acquire read lock : 92.63045ms
+time to release read lock : 61.794159ms
+time to acquire read lock : 141.031612ms
+time to release read lock : 25.559384ms
+time to acquire read lock : 130.085165ms
+time to release read lock : 72.223248ms
+time to acquire read lock : 118.27102ms
+time to release read lock : 57.117972ms
+time to acquire read lock : 105.183873ms
+time to release read lock : 53.772727ms
+time to acquire read lock : 100.898444ms
+time to release read lock : 50.977281ms
+time to acquire read lock : 120.604898ms
+time to release read lock : 48.057351ms
+time to acquire read lock : 87.139093ms
+time to release read lock : 46.773599ms
+time to acquire read lock : 122.634158ms
+time to release read lock : 48.266884ms
+time to acquire read lock : 80.873837ms
+time to release read lock : 35.511045ms
+time to acquire read lock : 66.895595ms
+time to release read lock : 40.223545ms
+time to acquire read lock : 164.918425ms
+time to release read lock : 59.679766ms
+time to acquire read lock : 116.557092ms
+time to release read lock : 91.549175ms
+time to acquire read lock : 142.635524ms
+time to release read lock : 24.262623ms
+time to acquire read lock : 143.678972ms
+time to release read lock : 46.203853ms
+time to acquire read lock : 77.112284ms
+time to release read lock : 44.642766ms
+time to acquire read lock : 133.992971ms
+time to release read lock : 63.735306ms
+time to acquire read lock : 80.575452ms
+time to release read lock : 42.550874ms
+time to acquire read lock : 218.639036ms
+time to release read lock : 72.48665ms
+time to acquire read lock : 163.076717ms
+time to release read lock : 80.92667ms
+time to acquire read lock : 105.626721ms
+time to release read lock : 64.410665ms
+time to acquire read lock : 112.777602ms
+time to release read lock : 48.470938ms
+time to acquire read lock : 174.479156ms
+time to release read lock : 94.358389ms
+time to acquire read lock : 131.103177ms
+time to release read lock : 48.953219ms
+time to acquire read lock : 91.342396ms
+time to release read lock : 39.712282ms
+time to acquire read lock : 114.179231ms
+time to release read lock : 32.107807ms
+time to acquire read lock : 59.127454ms
+time to release read lock : 70.724294ms
+time to acquire read lock : 112.203479ms
+time to release read lock : 28.026177ms
+time to acquire read lock : 145.641225ms
+time to release read lock : 27.009794ms
+time to acquire read lock : 98.464257ms
+time to release read lock : 51.672581ms
+time to acquire read lock : 100.194786ms
+time to release read lock : 47.876233ms
+time to acquire read lock : 132.428615ms
+time to release read lock : 88.511364ms
+time to acquire read lock : 131.777011ms
+time to release read lock : 96.742514ms
+time to acquire read lock : 149.089788ms
+time to release read lock : 51.341604ms
+time to acquire read lock : 85.890778ms
+time to release read lock : 35.544359ms
+time to acquire read lock : 77.652568ms
+time to release read lock : 40.089005ms
+time to acquire read lock : 103.108988ms
+time to release read lock : 22.950415ms
+time to acquire read lock : 120.00565ms
+time to release read lock : 52.156304ms
+time to acquire read lock : 87.64319ms
+time to release read lock : 25.381848ms
+time to acquire read lock : 107.012986ms
+time to release read lock : 29.631583ms
+time to acquire read lock : 162.67327ms
+time to release read lock : 42.952967ms
+time to acquire read lock : 127.507792ms
+time to release read lock : 73.817207ms
+time to acquire read lock : 91.675525ms
+time to release read lock : 64.391375ms
+time to acquire read lock : 83.240232ms
+time to release read lock : 67.793255ms
+time to acquire read lock : 100.643274ms
+time to release read lock : 45.567115ms
+time to acquire read lock : 169.654051ms
+time to release read lock : 50.467974ms
+time to acquire read lock : 111.246648ms
+time to release read lock : 40.660724ms
+time to acquire read lock : 121.393139ms
+time to release read lock : 53.228042ms
+time to acquire read lock : 93.512301ms
+time to release read lock : 51.583853ms
+time to acquire read lock : 83.712992ms
+time to release read lock : 44.874596ms
+time to acquire read lock : 75.406956ms
+time to release read lock : 42.911942ms
+time to acquire read lock : 86.928019ms
+time to release read lock : 81.418219ms
+time to acquire read lock : 76.638276ms
+time to release read lock : 48.939165ms
+time to acquire read lock : 86.188301ms
+time to release read lock : 31.393049ms
+time to acquire read lock : 101.641421ms
+time to release read lock : 46.970349ms
+time to acquire read lock : 78.048021ms
+time to release read lock : 26.549135ms
+time to acquire read lock : 99.004618ms
+time to release read lock : 33.131523ms
+time to acquire read lock : 92.883436ms
+time to release read lock : 41.761531ms
+time to acquire read lock : 121.450591ms
+time to release read lock : 60.319458ms
+time to acquire read lock : 75.390418ms
+time to release read lock : 37.704357ms
+time to acquire read lock : 84.134474ms
+time to release read lock : 37.597146ms
+time to acquire read lock : 202.217552ms
+time to release read lock : 56.536023ms
+time to acquire read lock : 94.195038ms
+time to release read lock : 35.482287ms
+time to acquire read lock : 121.611784ms
+time to release read lock : 58.469814ms
+time to acquire read lock : 155.659293ms
+time to release read lock : 66.440993ms
+time to acquire read lock : 107.897576ms
+time to release read lock : 37.872141ms
+time to acquire read lock : 115.266315ms
+time to release read lock : 29.026805ms
+time to acquire read lock : 99.911666ms
+time to release read lock : 30.500842ms
+time to acquire read lock : 91.953763ms
+time to release read lock : 44.653879ms
+time to acquire read lock : 73.757147ms
+time to release read lock : 39.257083ms
+time to acquire read lock : 146.280509ms
+time to release read lock : 33.782418ms
+time to acquire read lock : 87.722719ms
+time to release read lock : 23.710554ms
+time to acquire read lock : 81.440287ms
+time to release read lock : 77.688676ms
+time to acquire read lock : 107.288741ms
+time to release read lock : 41.346968ms
+time to acquire read lock : 73.11893ms
+time to release read lock : 36.583183ms
+time to acquire read lock : 112.345766ms
+time to release read lock : 49.125598ms
+time to acquire read lock : 75.499624ms
+time to release read lock : 22.644366ms
+time to acquire read lock : 147.519141ms
+time to release read lock : 96.606433ms
+time to acquire read lock : 111.567394ms
+time to release read lock : 56.380934ms
+time to acquire read lock : 81.3228ms
+time to release read lock : 49.229165ms
+time to acquire read lock : 85.201241ms
+time to release read lock : 37.966037ms
+time to acquire read lock : 101.521257ms
+time to release read lock : 64.354948ms
+time to acquire read lock : 146.685027ms
+time to release read lock : 52.599187ms
+time to acquire read lock : 83.404101ms
+time to release read lock : 40.219651ms
+time to acquire read lock : 94.28669ms
+time to release read lock : 31.349521ms
+time to acquire read lock : 111.80207ms
+time to release read lock : 28.035955ms
+time to acquire read lock : 54.602631ms
+time to release read lock : 30.076198ms
+time to acquire read lock : 120.245083ms
+time to release read lock : 58.825681ms
+time to acquire read lock : 95.287885ms
+time to release read lock : 47.128745ms
+time to acquire read lock : 76.4789ms
+time to release read lock : 104.286857ms
+time to acquire read lock : 99.178046ms
+time to release read lock : 35.346411ms
+time to acquire read lock : 85.682749ms
+time to release read lock : 48.474557ms
+time to acquire read lock : 81.529405ms
+time to release read lock : 38.302819ms
+time to acquire read lock : 101.950266ms
+time to release read lock : 42.407322ms
+time to acquire read lock : 89.319934ms
+time to release read lock : 45.105913ms
+time to acquire read lock : 66.058678ms
+time to release read lock : 43.492845ms
+time to acquire read lock : 82.841181ms
+time to release read lock : 72.9141ms
+time to acquire read lock : 103.692855ms
+time to release read lock : 38.475054ms
+time to acquire read lock : 117.67804ms
+time to release read lock : 41.29133ms
+time to acquire read lock : 97.803084ms
+time to release read lock : 60.449218ms
+time to acquire read lock : 95.699312ms
+time to release read lock : 60.381793ms
+time to acquire read lock : 112.458842ms
+time to release read lock : 55.383378ms
+time to acquire read lock : 49.82107ms
+time to release read lock : 75.023079ms
+time to acquire read lock : 94.722599ms
+time to release read lock : 32.658348ms
+time to acquire read lock : 69.363483ms
+time to release read lock : 41.818367ms
+time to acquire read lock : 96.709315ms
+time to release read lock : 52.622655ms
+time to acquire read lock : 84.093441ms
+time to release read lock : 35.244695ms
+time to acquire read lock : 111.68051ms
+time to release read lock : 62.56242ms
+time to acquire read lock : 85.802328ms
+time to release read lock : 135.708374ms
+time to acquire read lock : 92.518031ms
+time to release read lock : 42.880663ms
+time to acquire read lock : 90.348043ms
+time to release read lock : 34.799982ms
+time to acquire read lock : 164.294516ms
+time to release read lock : 83.294845ms
+time to acquire read lock : 121.041721ms
+time to release read lock : 50.441785ms
+time to acquire read lock : 76.356162ms
+time to release read lock : 39.342322ms
+time to acquire read lock : 105.061534ms
+time to release read lock : 109.561139ms
+time to acquire read lock : 113.946307ms
+time to release read lock : 32.908377ms
+time to acquire read lock : 67.095276ms
+time to release read lock : 35.328209ms
+time to acquire read lock : 82.306592ms
+time to release read lock : 41.239232ms
+time to acquire read lock : 79.022653ms
+time to release read lock : 57.503453ms
+time to acquire read lock : 119.102916ms
+time to release read lock : 63.381611ms
+time to acquire read lock : 109.73037ms
+time to release read lock : 135.518484ms
+time to acquire read lock : 120.900257ms
+time to release read lock : 58.484814ms
+time to acquire read lock : 143.558008ms
+time to release read lock : 76.19356ms
+time to acquire read lock : 117.721776ms
+time to release read lock : 55.105622ms
+time to acquire read lock : 280.205401ms
+time to release read lock : 95.511688ms
+time to acquire read lock : 150.254793ms
+time to release read lock : 36.592215ms
+time to acquire read lock : 123.709022ms
+time to release read lock : 34.462876ms
+time to acquire read lock : 121.605465ms
+time to release read lock : 86.500502ms
+time to acquire read lock : 97.689357ms
+time to release read lock : 51.769049ms
+time to acquire read lock : 101.096981ms
+time to release read lock : 38.429594ms
+time to acquire read lock : 139.083577ms
+time to release read lock : 54.885378ms
+time to acquire read lock : 95.323513ms
+time to release read lock : 47.45479ms
+time to acquire read lock : 94.199507ms
+time to release read lock : 31.618527ms
+time to acquire read lock : 80.703402ms
+time to release read lock : 27.410375ms
+time to acquire read lock : 78.884239ms
+time to release read lock : 46.874584ms
+time to acquire read lock : 91.241785ms
+time to release read lock : 29.953687ms
+time to acquire read lock : 140.72885ms
+time to release read lock : 80.799066ms
+time to acquire read lock : 104.979615ms
+time to release read lock : 51.30141ms
+time to acquire read lock : 69.452079ms
+time to release read lock : 131.252482ms
+time to acquire read lock : 82.035165ms
+time to release read lock : 38.430491ms
+time to acquire read lock : 66.254851ms
+time to release read lock : 61.892478ms
+time to acquire read lock : 78.349404ms
+time to release read lock : 53.658608ms
+time to acquire read lock : 144.449059ms
+time to release read lock : 42.837154ms
+time to acquire read lock : 77.702535ms
+time to release read lock : 63.411242ms
+time to acquire read lock : 96.042314ms
+time to release read lock : 41.092691ms
+time to acquire read lock : 101.68364ms
+time to release read lock : 61.195838ms
+time to acquire read lock : 73.058277ms
+time to release read lock : 44.469547ms
+time to acquire read lock : 100.234403ms
+time to release read lock : 41.178761ms
+time to acquire read lock : 81.856127ms
+time to release read lock : 37.757735ms
+time to acquire read lock : 117.337979ms
+time to release read lock : 59.816226ms
+time to acquire read lock : 81.104442ms
+time to release read lock : 34.719096ms
+time to acquire read lock : 79.37168ms
+time to release read lock : 84.128726ms
+time to acquire read lock : 108.386889ms
+time to release read lock : 77.032239ms
+time to acquire read lock : 164.487171ms
+time to release read lock : 53.710082ms
+time to acquire read lock : 132.485854ms
+time to release read lock : 52.076734ms
+time to acquire read lock : 112.150405ms
+time to release read lock : 46.405617ms
+time to acquire read lock : 100.998955ms
+time to release read lock : 48.372945ms
+time to acquire read lock : 106.805295ms
+time to release read lock : 75.950536ms
+time to acquire read lock : 114.060674ms
+time to release read lock : 160.400292ms
+time to acquire read lock : 151.664346ms
+time to release read lock : 78.789064ms
+time to acquire read lock : 96.256693ms
+time to release read lock : 62.065019ms
+time to acquire read lock : 105.862484ms
+time to release read lock : 48.999211ms
+time to acquire read lock : 99.703191ms
+time to release read lock : 53.759507ms
+time to acquire read lock : 121.808192ms
+time to release read lock : 41.642817ms
+time to acquire read lock : 138.366004ms
+time to release read lock : 37.297489ms
+time to acquire read lock : 148.365226ms
+time to release read lock : 25.289007ms
+time to acquire read lock : 116.792407ms
+time to release read lock : 53.193175ms
+time to acquire read lock : 65.170683ms
+time to release read lock : 40.217586ms
+time to acquire read lock : 89.336756ms
+time to release read lock : 42.476707ms
+time to acquire read lock : 103.625232ms
+time to release read lock : 41.732693ms
+time to acquire read lock : 110.457584ms
+time to release read lock : 69.079973ms
+time to acquire read lock : 81.40529ms
+time to release read lock : 32.426538ms
+time to acquire read lock : 87.7653ms
+time to release read lock : 43.046117ms
+time to acquire read lock : 74.901856ms
+time to release read lock : 49.038282ms
+time to acquire read lock : 65.196824ms
+time to release read lock : 54.552275ms
+time to acquire read lock : 108.609864ms
+time to release read lock : 34.060749ms
+time to acquire read lock : 93.887374ms
+time to release read lock : 38.498926ms
+time to acquire read lock : 85.074782ms
+time to release read lock : 32.742112ms
+time to acquire read lock : 106.869652ms
+time to release read lock : 43.647693ms
+time to acquire read lock : 103.129048ms
+time to release read lock : 47.523703ms
+time to acquire read lock : 79.468003ms
+time to release read lock : 34.604644ms
+time to acquire read lock : 84.793449ms
+time to release read lock : 53.892742ms
+time to acquire read lock : 121.274014ms
+time to release read lock : 29.057295ms
+time to acquire read lock : 100.761476ms
+time to release read lock : 25.109113ms
+time to acquire read lock : 99.151751ms
+time to release read lock : 57.637641ms
+time to acquire read lock : 170.545055ms
+time to release read lock : 41.225653ms
+time to acquire read lock : 92.685999ms
+time to release read lock : 46.980141ms
+time to acquire read lock : 96.706517ms
+time to release read lock : 36.692596ms
+time to acquire read lock : 94.824753ms
+time to release read lock : 48.533668ms
+time to acquire read lock : 91.993536ms
+time to release read lock : 50.124991ms
+time to acquire read lock : 80.586081ms
+time to release read lock : 49.588528ms
+time to acquire read lock : 135.531796ms
+time to release read lock : 68.920174ms
+time to acquire read lock : 116.93655ms
+time to release read lock : 36.053959ms
+time to acquire read lock : 86.315455ms
+time to release read lock : 46.104385ms
+time to acquire read lock : 85.074045ms
+time to release read lock : 29.205779ms
+time to acquire read lock : 83.299938ms
+time to release read lock : 31.717806ms
+time to acquire read lock : 78.233426ms
+time to release read lock : 27.930184ms
+time to acquire read lock : 86.96523ms
+time to release read lock : 37.880724ms
+time to acquire read lock : 97.734665ms
+time to release read lock : 52.127088ms
+time to acquire read lock : 97.079291ms
+time to release read lock : 36.763938ms
+time to acquire read lock : 102.451078ms
+time to release read lock : 46.937116ms
+time to acquire read lock : 111.487411ms
+time to release read lock : 37.658964ms
+time to acquire read lock : 93.480859ms
+time to release read lock : 37.895331ms
+time to acquire read lock : 85.817679ms
+time to release read lock : 40.462613ms
+time to acquire read lock : 93.675543ms
+time to release read lock : 47.13413ms
+time to acquire read lock : 186.61209ms
+time to release read lock : 72.266134ms
+time to acquire read lock : 74.945365ms
+time to release read lock : 50.379509ms
+time to acquire read lock : 73.190396ms
+time to release read lock : 38.18241ms
+time to acquire read lock : 110.383503ms
+time to release read lock : 52.246615ms
+time to acquire read lock : 114.871492ms
+time to release read lock : 45.442919ms
+time to acquire read lock : 91.874791ms
+time to release read lock : 101.912147ms
+time to acquire read lock : 108.88458ms
+time to release read lock : 57.359495ms
+time to acquire read lock : 77.611909ms
+time to release read lock : 50.557192ms
+time to acquire read lock : 114.719544ms
+time to release read lock : 32.514999ms
+time to acquire read lock : 170.007158ms
+time to release read lock : 93.180452ms
+time to acquire read lock : 81.51206ms
+time to release read lock : 51.970426ms
+time to acquire read lock : 126.401841ms
+time to release read lock : 51.187525ms
+time to acquire read lock : 106.22738ms
+time to release read lock : 32.149565ms
+time to acquire read lock : 59.758434ms
+time to release read lock : 62.029879ms
+time to acquire read lock : 88.067343ms
+time to release read lock : 39.78754ms
+time to acquire read lock : 88.76229ms
+time to release read lock : 29.74874ms
+time to acquire read lock : 113.707599ms
+time to release read lock : 45.329821ms
+time to acquire read lock : 64.77933ms
+time to release read lock : 61.119502ms
+time to acquire read lock : 95.677473ms
+time to release read lock : 45.246615ms
+time to acquire read lock : 104.689766ms
+time to release read lock : 36.03097ms
+time to acquire read lock : 99.290099ms
+time to release read lock : 56.47178ms
+time to acquire read lock : 71.094208ms
+time to release read lock : 49.902666ms
+time to acquire read lock : 90.976695ms
+time to release read lock : 54.118475ms
+time to acquire read lock : 71.410297ms
+time to release read lock : 29.123962ms
+time to acquire read lock : 91.402457ms
+time to release read lock : 51.508898ms
+time to acquire read lock : 117.909655ms
+time to release read lock : 44.396043ms
+time to acquire read lock : 76.973678ms
+time to release read lock : 31.159381ms
+time to acquire read lock : 77.804682ms
+time to release read lock : 47.231911ms
+time to acquire read lock : 105.651525ms
+time to release read lock : 32.698601ms
+time to acquire read lock : 117.525101ms
+time to release read lock : 47.563806ms
+time to acquire read lock : 89.396665ms
+time to release read lock : 51.218609ms
+time to acquire read lock : 181.809215ms
+time to release read lock : 60.337544ms
+time to acquire read lock : 115.548486ms
+time to release read lock : 42.675579ms
+time to acquire read lock : 133.09369ms
+time to release read lock : 84.969117ms
+time to acquire read lock : 134.163425ms
+time to release read lock : 59.242405ms
+time to acquire read lock : 117.802104ms
+time to release read lock : 77.106946ms
+time to acquire read lock : 143.95661ms
+time to release read lock : 53.912634ms
+time to acquire read lock : 121.122417ms
+time to release read lock : 37.212423ms
+time to acquire read lock : 81.477753ms
+time to release read lock : 53.277815ms
+time to acquire read lock : 110.243789ms
+time to release read lock : 38.435916ms
+time to acquire read lock : 100.271247ms
+time to release read lock : 35.569804ms
+time to acquire read lock : 101.239791ms
+time to release read lock : 30.695175ms
+time to acquire read lock : 114.782174ms
+time to release read lock : 21.612674ms
+time to acquire read lock : 79.075124ms
+time to release read lock : 27.983912ms
+time to acquire read lock : 91.492787ms
+time to release read lock : 45.051692ms
+time to acquire read lock : 101.450081ms
+time to release read lock : 25.675352ms
+time to acquire read lock : 87.115779ms
+time to release read lock : 33.932045ms
+time to acquire read lock : 87.739717ms
+time to release read lock : 137.572962ms
+time to acquire read lock : 115.617066ms
+time to release read lock : 40.99736ms
+time to acquire read lock : 91.796525ms
+time to release read lock : 37.386624ms
+time to acquire read lock : 110.370813ms
+time to release read lock : 35.004649ms
+time to acquire read lock : 87.707375ms
+time to release read lock : 27.66327ms
+time to acquire read lock : 115.249785ms
+time to release read lock : 26.142661ms
+time to acquire read lock : 97.645662ms
+time to release read lock : 64.850093ms
+time to acquire read lock : 67.975195ms
+time to release read lock : 55.249114ms
+time to acquire read lock : 151.1705ms
+time to release read lock : 57.990302ms
+time to acquire read lock : 114.886785ms
+time to release read lock : 40.46014ms
+time to acquire read lock : 98.882263ms
+time to release read lock : 30.931861ms
+time to acquire read lock : 84.888361ms
+time to release read lock : 60.730118ms
+time to acquire read lock : 103.816111ms
+time to release read lock : 41.287695ms
+time to acquire read lock : 89.110638ms
+time to release read lock : 71.026523ms
+time to acquire read lock : 166.857415ms
+time to release read lock : 47.721927ms
+time to acquire read lock : 103.608144ms
+time to release read lock : 62.857078ms
+time to acquire read lock : 60.677029ms
+time to release read lock : 31.116336ms
+time to acquire read lock : 100.528362ms
+time to release read lock : 32.387845ms
+time to acquire read lock : 98.14921ms
+time to release read lock : 44.823502ms
+time to acquire read lock : 106.632899ms
+time to release read lock : 36.705175ms
+time to acquire read lock : 99.44669ms
+time to release read lock : 26.7424ms
+time to acquire read lock : 106.790521ms
+time to release read lock : 32.783952ms
+time to acquire read lock : 82.031523ms
+time to release read lock : 35.806753ms
+time to acquire read lock : 86.699392ms
+time to release read lock : 28.637279ms
+time to acquire read lock : 101.309098ms
+time to release read lock : 31.959456ms
+time to acquire read lock : 89.507189ms
+time to release read lock : 30.300422ms
+time to acquire read lock : 59.612987ms
+time to release read lock : 31.540146ms
+time to acquire read lock : 86.568422ms
+time to release read lock : 41.686044ms
+time to acquire read lock : 87.00431ms
+time to release read lock : 55.098847ms
+time to acquire read lock : 103.291869ms
+time to release read lock : 54.686867ms
+time to acquire read lock : 84.611246ms
+time to release read lock : 43.266713ms
+time to acquire read lock : 73.965069ms
+time to release read lock : 53.841389ms
+time to acquire read lock : 148.955037ms
+time to release read lock : 63.495467ms
+time to acquire read lock : 122.753608ms
+time to release read lock : 66.651821ms
+time to acquire read lock : 207.681263ms
+time to release read lock : 50.896031ms
+time to acquire read lock : 148.861292ms
+time to release read lock : 64.922685ms
+time to acquire read lock : 98.986512ms
+time to release read lock : 46.150374ms
+time to acquire read lock : 62.795979ms
+time to release read lock : 42.343052ms
+time to acquire read lock : 101.279275ms
+time to release read lock : 61.571071ms
+time to acquire read lock : 151.033714ms
+time to release read lock : 65.352698ms
+time to acquire read lock : 83.888282ms
+time to release read lock : 39.029318ms
+time to acquire read lock : 108.339213ms
+time to release read lock : 46.453478ms
+time to acquire read lock : 182.241667ms
+time to release read lock : 74.346196ms
+time to acquire read lock : 102.345042ms
+time to release read lock : 50.769979ms
+time to acquire read lock : 81.271433ms
+time to release read lock : 47.195005ms
+time to acquire read lock : 91.76875ms
+time to release read lock : 53.456464ms
+time to acquire read lock : 106.05456ms
+time to release read lock : 52.991548ms
+time to acquire read lock : 155.319757ms
+time to release read lock : 39.674532ms
+time to acquire read lock : 71.52034ms
+time to release read lock : 34.069452ms
+time to acquire read lock : 183.449266ms
+time to release read lock : 47.946521ms
+time to acquire read lock : 101.267676ms
+time to release read lock : 50.261204ms
+time to acquire read lock : 97.163587ms
+time to release read lock : 42.634586ms
+time to acquire read lock : 111.183754ms
+time to release read lock : 56.959545ms
+time to acquire read lock : 119.850312ms
+time to release read lock : 55.345034ms
+time to acquire read lock : 95.493787ms
+time to release read lock : 47.787538ms
+time to acquire read lock : 82.551971ms
+time to release read lock : 41.593884ms
+time to acquire read lock : 90.269765ms
+time to release read lock : 127.329308ms
+time to acquire read lock : 93.07463ms
+time to release read lock : 31.458006ms
+time to acquire read lock : 98.369278ms
+time to release read lock : 26.661911ms
+time to acquire read lock : 76.433092ms
+time to release read lock : 31.647737ms
+time to acquire read lock : 81.268119ms
+time to release read lock : 40.28615ms
+time to acquire read lock : 84.740863ms
+time to release read lock : 33.644197ms
+time to acquire read lock : 96.535959ms
+time to release read lock : 21.357213ms
+time to acquire read lock : 90.20548ms
+time to release read lock : 67.122902ms
+time to acquire read lock : 100.172597ms
+time to release read lock : 33.333869ms
+time to acquire read lock : 92.520164ms
+time to release read lock : 39.493481ms
+time to acquire read lock : 79.667063ms
+time to release read lock : 33.762855ms
+time to acquire read lock : 117.459559ms
+time to release read lock : 48.238821ms
+time to acquire read lock : 151.969093ms
+time to release read lock : 55.685284ms
+time to acquire read lock : 171.547877ms
+time to release read lock : 77.267133ms
+time to acquire read lock : 102.324783ms
+time to release read lock : 83.336117ms
+time to acquire read lock : 102.093027ms
+time to release read lock : 52.233502ms
+time to acquire read lock : 110.620902ms
+time to release read lock : 53.293653ms
+time to acquire read lock : 102.136909ms
+time to release read lock : 34.949246ms
+time to acquire read lock : 64.336277ms
+time to release read lock : 54.114439ms
+time to acquire read lock : 200.407381ms
+time to release read lock : 63.293526ms
+time to acquire read lock : 101.890582ms
+time to release read lock : 46.114092ms
+time to acquire read lock : 74.531895ms
+time to release read lock : 32.399876ms
+time to acquire read lock : 66.470592ms
+time to release read lock : 49.48771ms
+time to acquire read lock : 79.134382ms
+time to release read lock : 23.069438ms
+time to acquire read lock : 83.778091ms
+time to release read lock : 28.947483ms
+time to acquire read lock : 80.974626ms
+time to release read lock : 37.358884ms
+time to acquire read lock : 153.666488ms
+time to release read lock : 28.969613ms
+time to acquire read lock : 75.372469ms
+time to release read lock : 47.613076ms
+time to acquire read lock : 71.121814ms
+time to release read lock : 43.077857ms
+time to acquire read lock : 110.117985ms
+time to release read lock : 28.843397ms
+time to acquire read lock : 56.965113ms
+time to release read lock : 36.774825ms
+time to acquire read lock : 81.059521ms
+time to release read lock : 31.695541ms
+time to acquire read lock : 73.123406ms
+time to release read lock : 30.907268ms
+time to acquire read lock : 106.236994ms
+time to release read lock : 48.581842ms
+time to acquire read lock : 57.756713ms
+time to release read lock : 29.880198ms
+time to acquire read lock : 83.183973ms
+time to release read lock : 50.191584ms
+time to acquire read lock : 108.439454ms
+time to release read lock : 46.454036ms
+time to acquire read lock : 66.320669ms
+time to release read lock : 37.167809ms
+time to acquire read lock : 88.029952ms
+time to release read lock : 52.412077ms
+time to acquire read lock : 89.94591ms
+time to release read lock : 31.820785ms
+time to acquire read lock : 83.510488ms
+time to release read lock : 50.828797ms
+time to acquire read lock : 82.439082ms
+time to release read lock : 45.372694ms
+time to acquire read lock : 155.926259ms
+time to release read lock : 33.790099ms
+time to acquire read lock : 82.248214ms
+time to release read lock : 39.766735ms
+time to acquire read lock : 68.661375ms
+time to release read lock : 36.821394ms
+time to acquire read lock : 60.157972ms
+time to release read lock : 34.283066ms
+time to acquire read lock : 55.628955ms
+time to release read lock : 44.650842ms
+time to acquire read lock : 63.690203ms
+time to release read lock : 18.365116ms
+time to acquire read lock : 74.86891ms
+time to release read lock : 47.350353ms
+time to acquire read lock : 57.670361ms
+time to release read lock : 33.028579ms
+time to acquire read lock : 85.056007ms
+time to release read lock : 34.542446ms
+time to acquire read lock : 62.74877ms
+time to release read lock : 34.86886ms
+time to acquire read lock : 54.764949ms
+time to release read lock : 39.730776ms
+time to acquire read lock : 69.683285ms
+time to release read lock : 41.302829ms
+time to acquire read lock : 89.25805ms
+time to release read lock : 29.378112ms
+time to acquire read lock : 103.648941ms
+time to release read lock : 36.329085ms
+time to acquire read lock : 78.433075ms
+time to release read lock : 96.799788ms
+time to acquire read lock : 88.304848ms
+time to release read lock : 45.671953ms
+time to acquire read lock : 53.371252ms
+time to release read lock : 39.45991ms
+time to acquire read lock : 47.389852ms
+time to release read lock : 33.480252ms
+time to acquire read lock : 77.464004ms
+time to release read lock : 32.425117ms
+time to acquire read lock : 78.847375ms
+time to release read lock : 34.098899ms
+time to acquire read lock : 59.252368ms
+time to release read lock : 32.546879ms
+time to acquire read lock : 64.701754ms
+time to release read lock : 24.11675ms
+time to acquire read lock : 85.504744ms
+time to release read lock : 24.995724ms
+time to acquire read lock : 116.008707ms
+time to release read lock : 39.279787ms
+time to acquire read lock : 74.883795ms
+time to release read lock : 40.365624ms
+time to acquire read lock : 67.789001ms
+time to release read lock : 53.901632ms
+time to acquire read lock : 66.303689ms
+time to release read lock : 33.697678ms
+time to acquire read lock : 57.547977ms
+time to release read lock : 46.478558ms
+time to acquire read lock : 94.739731ms
+time to release read lock : 29.921302ms
+time to acquire read lock : 77.288088ms
+time to release read lock : 33.084317ms
+time to acquire read lock : 69.959488ms
+time to release read lock : 52.475705ms
+time to acquire read lock : 72.050928ms
+time to release read lock : 42.318643ms
+time to acquire read lock : 58.204065ms
+time to release read lock : 35.091741ms
+time to acquire read lock : 84.641766ms
+time to release read lock : 33.527819ms
+time to acquire read lock : 176.454771ms
+time to release read lock : 38.115834ms
+time to acquire read lock : 72.062509ms
+time to release read lock : 44.048352ms
+time to acquire read lock : 64.706865ms
+time to release read lock : 37.216657ms
+time to acquire read lock : 68.417526ms
+time to release read lock : 31.524454ms
+time to acquire read lock : 73.051128ms
+time to release read lock : 28.310518ms
+time to acquire read lock : 62.880293ms
+time to release read lock : 43.438753ms
+time to acquire read lock : 62.541576ms
+time to release read lock : 31.201125ms
+time to acquire read lock : 119.116488ms
+time to release read lock : 29.347077ms
+time to acquire read lock : 67.461003ms
+time to release read lock : 32.177323ms
+time to acquire read lock : 108.797293ms
+time to release read lock : 27.313292ms
+time to acquire read lock : 72.632166ms
+time to release read lock : 54.564408ms
+time to acquire read lock : 77.998423ms
+time to release read lock : 26.906479ms
+time to acquire read lock : 150.557817ms
+time to release read lock : 29.631214ms
+time to acquire read lock : 120.548742ms
+time to release read lock : 71.878193ms
+time to acquire read lock : 66.674584ms
+time to release read lock : 32.208746ms
+time to acquire read lock : 57.112368ms
+time to release read lock : 34.505618ms
+time to acquire read lock : 74.371636ms
+time to release read lock : 28.804353ms
+time to acquire read lock : 80.535105ms
+time to release read lock : 45.221118ms
+time to acquire read lock : 111.061332ms
+time to release read lock : 27.824704ms
+time to acquire read lock : 111.404985ms
+time to release read lock : 44.998458ms
+time to acquire read lock : 77.724059ms
+time to release read lock : 38.470977ms
+time to acquire read lock : 84.372709ms
+time to release read lock : 35.109611ms
+time to acquire read lock : 59.062575ms
+time to release read lock : 26.183514ms
+time to acquire read lock : 69.151083ms
+time to release read lock : 40.383591ms
+time to acquire read lock : 94.781761ms
+time to release read lock : 31.039987ms
+time to acquire read lock : 97.643394ms
+time to release read lock : 111.203401ms
+time to acquire read lock : 111.116697ms
+time to release read lock : 32.167451ms
+time to acquire read lock : 92.367764ms
+time to release read lock : 28.169317ms
+time to acquire read lock : 65.291811ms
+time to release read lock : 34.405769ms
+time to acquire read lock : 66.523846ms
+time to release read lock : 27.948963ms
+time to acquire read lock : 45.54165ms
+time to release read lock : 41.45755ms
+time to acquire read lock : 56.60985ms
+time to release read lock : 40.220257ms
+time to acquire read lock : 63.102529ms
+time to release read lock : 34.280067ms
+time to acquire read lock : 72.76106ms
+time to release read lock : 35.434319ms
+time to acquire read lock : 48.033378ms
+time to release read lock : 31.941373ms
+time to acquire read lock : 93.379484ms
+time to release read lock : 30.232843ms
+time to acquire read lock : 73.426246ms
+time to release read lock : 41.781092ms
+time to acquire read lock : 69.110274ms
+time to release read lock : 32.160235ms
+time to acquire read lock : 66.089307ms
+time to release read lock : 39.843247ms
+time to acquire read lock : 67.080715ms
+time to release read lock : 27.001956ms
+time to acquire read lock : 65.970036ms
+time to release read lock : 32.075399ms
+time to acquire read lock : 91.729302ms
+time to release read lock : 46.812857ms
+time to acquire read lock : 89.908774ms
+time to release read lock : 35.476182ms
+time to acquire read lock : 106.573257ms
+time to release read lock : 39.487302ms
+time to acquire read lock : 76.532742ms
+time to release read lock : 46.632682ms
+time to acquire read lock : 97.802818ms
+time to release read lock : 32.582499ms
+time to acquire read lock : 87.674708ms
+time to release read lock : 61.856381ms
+time to acquire read lock : 76.35078ms
+time to release read lock : 41.21132ms
+time to acquire read lock : 83.005938ms
+time to release read lock : 42.34393ms
+time to acquire read lock : 104.245953ms
+time to release read lock : 44.829967ms
+time to acquire read lock : 129.797834ms
+time to release read lock : 34.228245ms
+time to acquire read lock : 107.653862ms
+time to release read lock : 31.521981ms
+time to acquire read lock : 74.429856ms
+time to release read lock : 49.447066ms
+time to acquire read lock : 69.349409ms
+time to release read lock : 59.826128ms
+time to acquire read lock : 77.754827ms
+time to release read lock : 31.149708ms
+time to acquire read lock : 90.841369ms
+time to release read lock : 29.419215ms
+time to acquire read lock : 122.445907ms
+time to release read lock : 33.802921ms
+time to acquire read lock : 105.070532ms
+time to release read lock : 47.828236ms
+time to acquire read lock : 87.388394ms
+time to release read lock : 46.635423ms
+time to acquire read lock : 72.759306ms
+time to release read lock : 42.918991ms
+time to acquire read lock : 81.001396ms
+time to release read lock : 49.347261ms
+time to acquire read lock : 77.396702ms
+time to release read lock : 50.586493ms
+time to acquire read lock : 87.596799ms
+time to release read lock : 32.529701ms
+time to acquire read lock : 103.058441ms
+time to release read lock : 27.919402ms
+time to acquire read lock : 78.677316ms
+time to release read lock : 42.11551ms
+time to acquire read lock : 65.681143ms
+time to release read lock : 47.475744ms
+time to acquire read lock : 77.984477ms
+time to release read lock : 34.732798ms
+time to acquire read lock : 72.077463ms
+time to release read lock : 45.888193ms
+time to acquire read lock : 54.225564ms
+time to release read lock : 63.392114ms
+time to acquire read lock : 84.232253ms
+time to release read lock : 34.271032ms
+time to acquire read lock : 96.944773ms
+time to release read lock : 32.703062ms
+time to acquire read lock : 69.853703ms
+time to release read lock : 32.69667ms
+time to acquire read lock : 124.232654ms
+time to release read lock : 28.14633ms
+time to acquire read lock : 80.015677ms
+time to release read lock : 37.935202ms
+time to acquire read lock : 94.817687ms
+time to release read lock : 28.388201ms
+time to acquire read lock : 87.255975ms
+time to release read lock : 33.08485ms
+time to acquire read lock : 48.8147ms
+time to release read lock : 38.124795ms
+time to acquire read lock : 68.338465ms
+time to release read lock : 28.55264ms
+time to acquire read lock : 76.024255ms
+time to release read lock : 43.758223ms
+time to acquire read lock : 57.59864ms
+time to release read lock : 35.722874ms
+time to acquire read lock : 117.396943ms
+time to release read lock : 39.930036ms
+time to acquire read lock : 76.725993ms
+time to release read lock : 46.258452ms
+time to acquire read lock : 80.107011ms
+time to release read lock : 31.823648ms
+time to acquire read lock : 61.411779ms
+time to release read lock : 103.346633ms
+time to acquire read lock : 83.849811ms
+time to release read lock : 37.406263ms
+time to acquire read lock : 77.599495ms
+time to release read lock : 40.234751ms
+time to acquire read lock : 74.209022ms
+time to release read lock : 25.583862ms
+time to acquire read lock : 97.900015ms
+time to release read lock : 24.87226ms
+time to acquire read lock : 69.966973ms
+time to release read lock : 23.124573ms
+time to acquire read lock : 112.753953ms
+time to release read lock : 45.948928ms
+time to acquire read lock : 66.547913ms
+time to release read lock : 29.242431ms
+time to acquire read lock : 63.93594ms
+time to release read lock : 28.334878ms
+time to acquire read lock : 95.53896ms
+time to release read lock : 46.692696ms
+time to acquire read lock : 74.659005ms
+time to release read lock : 43.587305ms
+time to acquire read lock : 94.35495ms
+time to release read lock : 30.507088ms
+time to acquire read lock : 75.774214ms
+time to release read lock : 32.146233ms
+time to acquire read lock : 126.579603ms
+time to release read lock : 34.119493ms
+time to acquire read lock : 122.434225ms
+time to release read lock : 34.179742ms
+time to acquire read lock : 79.126404ms
+time to release read lock : 36.503387ms
+time to acquire read lock : 63.040393ms
+time to release read lock : 32.398615ms
+time to acquire read lock : 84.635115ms
+time to release read lock : 41.808397ms
+time to acquire read lock : 73.773695ms
+time to release read lock : 36.747387ms
+time to acquire read lock : 69.887898ms
+time to release read lock : 76.379478ms
+time to acquire read lock : 63.976662ms
+time to release read lock : 51.371462ms
+time to acquire read lock : 72.138736ms
+time to release read lock : 34.952288ms
+time to acquire read lock : 70.609702ms
+time to release read lock : 38.849454ms
+time to acquire read lock : 89.05746ms
+time to release read lock : 57.600813ms
+time to acquire read lock : 103.379594ms
+time to release read lock : 34.527778ms
+time to acquire read lock : 95.897141ms
+time to release read lock : 40.295717ms
+time to acquire read lock : 68.248133ms
+time to release read lock : 58.249829ms
+time to acquire read lock : 93.437674ms
+time to release read lock : 69.334587ms
+time to acquire read lock : 114.361418ms
+time to release read lock : 45.148034ms
+time to acquire read lock : 67.048164ms
+time to release read lock : 43.669342ms
+time to acquire read lock : 76.280665ms
+time to release read lock : 43.933657ms
+time to acquire read lock : 75.314773ms
+time to release read lock : 32.405622ms
+time to acquire read lock : 89.133366ms
+time to release read lock : 29.531865ms
+time to acquire read lock : 64.837613ms
+time to release read lock : 27.413598ms
+time to acquire read lock : 63.608814ms
+time to release read lock : 32.162237ms
+time to acquire read lock : 60.364291ms
+time to release read lock : 26.722868ms
+time to acquire read lock : 59.658897ms
+time to release read lock : 33.785023ms
+time to acquire read lock : 106.962448ms
+time to release read lock : 48.364842ms
+time to acquire read lock : 104.438548ms
+time to release read lock : 31.479492ms
+time to acquire read lock : 79.004266ms
+time to release read lock : 33.871479ms
+time to acquire read lock : 78.154407ms
+time to release read lock : 44.273004ms
+time to acquire read lock : 82.289043ms
+time to release read lock : 34.828735ms
+time to acquire read lock : 100.296847ms
+time to release read lock : 24.311657ms
+time to acquire read lock : 88.163353ms
+time to release read lock : 47.540576ms
+time to acquire read lock : 71.024122ms
+time to release read lock : 47.546314ms
+time to acquire read lock : 66.533644ms
+time to release read lock : 47.844128ms
+time to acquire read lock : 89.875301ms
+time to release read lock : 38.687607ms
+time to acquire read lock : 102.43882ms
+time to release read lock : 45.234681ms
+time to acquire read lock : 79.68289ms
+time to release read lock : 37.676751ms
+time to acquire read lock : 149.476747ms
+time to release read lock : 29.032326ms
+time to acquire read lock : 59.163758ms
+time to release read lock : 33.747637ms
+time to acquire read lock : 52.421912ms
+time to release read lock : 33.769536ms
+time to acquire read lock : 83.906961ms
+time to release read lock : 40.48584ms
+time to acquire read lock : 76.057134ms
+time to release read lock : 43.462857ms
+time to acquire read lock : 66.525378ms
+time to release read lock : 44.861028ms
+time to acquire read lock : 87.017678ms
+time to release read lock : 35.043912ms
+time to acquire read lock : 77.478636ms
+time to release read lock : 29.648035ms
+time to acquire read lock : 112.970944ms
+time to release read lock : 37.78023ms
+time to acquire read lock : 96.966839ms
+time to release read lock : 27.667489ms
+time to acquire read lock : 63.991644ms
+time to release read lock : 50.492119ms
+time to acquire read lock : 175.646307ms
+time to release read lock : 32.776895ms
+time to acquire read lock : 89.907435ms
+time to release read lock : 49.238408ms
+time to acquire read lock : 70.108599ms
+time to release read lock : 50.170027ms
+time to acquire read lock : 72.48009ms
+time to release read lock : 56.875628ms
+time to acquire read lock : 67.40027ms
+time to release read lock : 32.115425ms
+time to acquire read lock : 97.33401ms
+time to release read lock : 51.40971ms
+time to acquire read lock : 99.731101ms
+time to release read lock : 42.004732ms
+time to acquire read lock : 81.311236ms
+time to release read lock : 38.501869ms
+time to acquire read lock : 76.850738ms
+time to release read lock : 29.889551ms
+time to acquire read lock : 68.057928ms
+time to release read lock : 33.759712ms
+time to acquire read lock : 86.690602ms
+time to release read lock : 34.03171ms
+time to acquire read lock : 88.729687ms
+time to release read lock : 41.345768ms
+time to acquire read lock : 74.686447ms
+time to release read lock : 40.623763ms
+time to acquire read lock : 73.961534ms
+time to release read lock : 32.33144ms
+time to acquire read lock : 77.502696ms
+time to release read lock : 32.696324ms
+time to acquire read lock : 75.784876ms
+time to release read lock : 41.517204ms
+time to acquire read lock : 48.547289ms
+time to release read lock : 36.819158ms
+time to acquire read lock : 64.475562ms
+time to release read lock : 37.395411ms
+time to acquire read lock : 60.086587ms
+time to release read lock : 40.12375ms
+time to acquire read lock : 60.047647ms
+time to release read lock : 44.114827ms
+time to acquire read lock : 121.876343ms
+time to release read lock : 32.075387ms
+time to acquire read lock : 61.787256ms
+time to release read lock : 28.132833ms
+time to acquire read lock : 81.065365ms
+time to release read lock : 31.100808ms
+time to acquire read lock : 67.773703ms
+time to release read lock : 29.128263ms
+time to acquire read lock : 58.320714ms
+time to release read lock : 40.647335ms
+time to acquire read lock : 61.049005ms
+time to release read lock : 34.836878ms
+time to acquire read lock : 52.657056ms
+time to release read lock : 22.802489ms
+time to acquire read lock : 76.318416ms
+time to release read lock : 35.579736ms
+time to acquire read lock : 67.762773ms
+time to release read lock : 68.563256ms
+time to acquire read lock : 80.955946ms
+time to release read lock : 53.761048ms
+time to acquire read lock : 67.337342ms
+time to release read lock : 42.811044ms
+time to acquire read lock : 83.273828ms
+time to release read lock : 51.190043ms
+time to acquire read lock : 67.831251ms
+time to release read lock : 32.670646ms
+time to acquire read lock : 60.870152ms
+time to release read lock : 47.139121ms
+time to acquire read lock : 73.765568ms
+time to release read lock : 26.064832ms
+time to acquire read lock : 73.345538ms
+time to release read lock : 53.483213ms
+time to acquire read lock : 72.620346ms
+time to release read lock : 33.596343ms
+time to acquire read lock : 64.551932ms
+time to release read lock : 38.922237ms
+time to acquire read lock : 64.68614ms
+time to release read lock : 26.863916ms
+time to acquire read lock : 57.169228ms
+time to release read lock : 44.362652ms
+time to acquire read lock : 61.687972ms
+time to release read lock : 30.701234ms
+time to acquire read lock : 56.686978ms
+time to release read lock : 40.186767ms
+time to acquire read lock : 85.097195ms
+time to release read lock : 42.409671ms
+time to acquire read lock : 60.696475ms
+time to release read lock : 34.141706ms
+time to acquire read lock : 60.748723ms
+time to release read lock : 39.437076ms
+time to acquire read lock : 71.837671ms
+time to release read lock : 40.537332ms
+time to acquire read lock : 57.750251ms
+time to release read lock : 38.318774ms
+time to acquire read lock : 95.558296ms
+time to release read lock : 35.583009ms
+time to acquire read lock : 54.534947ms
+time to release read lock : 39.904619ms
+time to acquire read lock : 65.655187ms
+time to release read lock : 29.550931ms
+time to acquire read lock : 79.01873ms
+time to release read lock : 39.276694ms
+time to acquire read lock : 67.520312ms
+time to release read lock : 58.465399ms
+time to acquire read lock : 148.441753ms
+time to release read lock : 124.592513ms
+time to acquire read lock : 91.556541ms
+time to release read lock : 20.916248ms
+time to acquire read lock : 59.920625ms
+time to release read lock : 42.549593ms
+time to acquire read lock : 73.4952ms
+time to release read lock : 26.23288ms
+time to acquire read lock : 82.467131ms
+time to release read lock : 25.145708ms
+time to acquire read lock : 81.74562ms
+time to release read lock : 25.412532ms
+time to acquire read lock : 73.365091ms
+time to release read lock : 39.394827ms
+time to acquire read lock : 59.834642ms
+time to release read lock : 36.287591ms
+time to acquire read lock : 240.509979ms
+time to release read lock : 65.217272ms
+time to acquire read lock : 112.960407ms
+time to release read lock : 33.209466ms
+time to acquire read lock : 65.990402ms
+time to release read lock : 39.080603ms
+time to acquire read lock : 65.028885ms
+time to release read lock : 35.025716ms
+time to acquire read lock : 83.531907ms
+time to release read lock : 38.757283ms
+time to acquire read lock : 55.883523ms
+time to release read lock : 19.660681ms
+time to acquire read lock : 85.597505ms
+time to release read lock : 22.944332ms
+time to acquire read lock : 85.872261ms
+time to release read lock : 41.87583ms
+time to acquire read lock : 80.011956ms
+time to release read lock : 37.667101ms
+time to acquire read lock : 65.763893ms
+time to release read lock : 41.510717ms
+time to acquire read lock : 73.806003ms
+time to release read lock : 34.489574ms
+time to acquire read lock : 90.174678ms
+time to release read lock : 43.65025ms
+time to acquire read lock : 55.726212ms
+time to release read lock : 25.314464ms
+time to acquire read lock : 61.894935ms
+time to release read lock : 43.410317ms
+time to acquire read lock : 65.933062ms
+time to release read lock : 41.219485ms
+time to acquire read lock : 60.294334ms
+time to release read lock : 51.035726ms
+time to acquire read lock : 70.689679ms
+time to release read lock : 36.096379ms
+time to acquire read lock : 65.562453ms
+time to release read lock : 48.001467ms
+time to acquire read lock : 77.726582ms
+time to release read lock : 25.119761ms
+time to acquire read lock : 66.474119ms
+time to release read lock : 30.307734ms
+time to acquire read lock : 64.697233ms
+time to release read lock : 54.386509ms
+time to acquire read lock : 58.80533ms
+time to release read lock : 32.617624ms
+time to acquire read lock : 64.27224ms
+time to release read lock : 31.013301ms
+time to acquire read lock : 103.2571ms
+time to release read lock : 31.836693ms
+time to acquire read lock : 123.982682ms
+time to release read lock : 23.568427ms
+time to acquire read lock : 59.287343ms
+time to release read lock : 36.353613ms
+time to acquire read lock : 67.872952ms
+time to release read lock : 32.838767ms
+time to acquire read lock : 72.076257ms
+time to release read lock : 44.468237ms
+time to acquire read lock : 77.320539ms
+time to release read lock : 41.50283ms
+time to acquire read lock : 66.693817ms
+time to release read lock : 31.368952ms
+time to acquire read lock : 61.371486ms
+time to release read lock : 29.791109ms
+time to acquire read lock : 89.100488ms
+time to release read lock : 32.044936ms
+time to acquire read lock : 115.444061ms
+time to release read lock : 38.897857ms
+time to acquire read lock : 70.092292ms
+time to release read lock : 32.78738ms
+time to acquire read lock : 55.401417ms
+time to release read lock : 28.1998ms
+time to acquire read lock : 66.440979ms
+time to release read lock : 31.773341ms
+time to acquire read lock : 82.679275ms
+time to release read lock : 31.39501ms
+time to acquire read lock : 74.867885ms
+time to release read lock : 35.414643ms
+time to acquire read lock : 69.527519ms
+time to release read lock : 34.314254ms
+time to acquire read lock : 61.252583ms
+time to release read lock : 30.628593ms
+time to acquire read lock : 47.589942ms
+time to release read lock : 28.822248ms
+time to acquire read lock : 88.197019ms
+time to release read lock : 28.867589ms
+time to acquire read lock : 74.470628ms
+time to release read lock : 36.607897ms
+time to acquire read lock : 73.653424ms
+time to release read lock : 30.646024ms
+time to acquire read lock : 71.838733ms
+time to release read lock : 33.598191ms
+time to acquire read lock : 74.232757ms
+time to release read lock : 40.045757ms
+time to acquire read lock : 66.19536ms
+time to release read lock : 44.938097ms
+time to acquire read lock : 64.819355ms
+time to release read lock : 28.825998ms
+time to acquire read lock : 94.040334ms
+time to release read lock : 34.878574ms
+time to acquire read lock : 89.670369ms
+time to release read lock : 23.758312ms
+time to acquire read lock : 81.784322ms
+time to release read lock : 27.101161ms
+time to acquire read lock : 60.837527ms
+time to release read lock : 41.154385ms
+time to acquire read lock : 117.892464ms
+time to release read lock : 26.896133ms
+time to acquire read lock : 59.121816ms
+time to release read lock : 42.205837ms
+time to acquire read lock : 48.181962ms
+time to release read lock : 21.389547ms
+time to acquire read lock : 71.50204ms
+time to release read lock : 26.378082ms
+time to acquire read lock : 75.151611ms
+time to release read lock : 39.227873ms
+time to acquire read lock : 79.733879ms
+time to release read lock : 123.386311ms
+time to acquire read lock : 73.013975ms
+time to release read lock : 40.630033ms
+time to acquire read lock : 67.898484ms
+time to release read lock : 41.557348ms
+time to acquire read lock : 107.90583ms
+time to release read lock : 51.82386ms
+time to acquire read lock : 83.884199ms
+time to release read lock : 32.709798ms
+time to acquire read lock : 195.853623ms
+time to release read lock : 36.289178ms
+time to acquire read lock : 62.212558ms
+time to release read lock : 28.769099ms
+time to acquire read lock : 96.118098ms
+time to release read lock : 42.121942ms
+time to acquire read lock : 78.845363ms
+time to release read lock : 35.087364ms
+time to acquire read lock : 69.563465ms
+time to release read lock : 61.851947ms
+time to acquire read lock : 75.449985ms
+time to release read lock : 50.653156ms
+time to acquire read lock : 73.795885ms
+time to release read lock : 55.953504ms
+time to acquire read lock : 66.659805ms
+time to release read lock : 46.330761ms
+time to acquire read lock : 71.171949ms
+time to release read lock : 45.58974ms
+time to acquire read lock : 86.2109ms
+time to release read lock : 39.1136ms
+time to acquire read lock : 74.204376ms
+time to release read lock : 42.573196ms
+time to acquire read lock : 66.45554ms
+time to release read lock : 30.908283ms
+time to acquire read lock : 55.787493ms
+time to release read lock : 31.579942ms
+time to acquire read lock : 87.592857ms
+time to release read lock : 35.724981ms
+time to acquire read lock : 76.26855ms
+time to release read lock : 36.917901ms
+time to acquire read lock : 70.350154ms
+time to release read lock : 31.032011ms
+time to acquire read lock : 72.553495ms
+time to release read lock : 27.26183ms
+time to acquire read lock : 82.355954ms
+time to release read lock : 50.436047ms
+time to acquire read lock : 70.046602ms
+time to release read lock : 37.410244ms
+time to acquire read lock : 97.62345ms
+time to release read lock : 42.943411ms
+time to acquire read lock : 59.634921ms
+time to release read lock : 28.354943ms
+time to acquire read lock : 66.134231ms
+time to release read lock : 30.150716ms
+time to acquire read lock : 108.215929ms
+time to release read lock : 36.403724ms
+time to acquire read lock : 65.265921ms
+time to release read lock : 42.02679ms
+time to acquire read lock : 64.261556ms
+time to release read lock : 46.621721ms
+time to acquire read lock : 80.998917ms
+time to release read lock : 98.794533ms
+time to acquire read lock : 87.728005ms
+time to release read lock : 39.644651ms
+time to acquire read lock : 60.209811ms
+time to release read lock : 30.413222ms
+time to acquire read lock : 93.902985ms
+time to release read lock : 43.313107ms
+time to acquire read lock : 98.662634ms
+time to release read lock : 35.267733ms
+time to acquire read lock : 173.266534ms
+time to release read lock : 35.089344ms
+time to acquire read lock : 74.125693ms
+time to release read lock : 23.958295ms
+time to acquire read lock : 99.288124ms
+time to release read lock : 48.925485ms
+time to acquire read lock : 78.193455ms
+time to release read lock : 40.91594ms
+time to acquire read lock : 75.163686ms
+time to release read lock : 28.587197ms
+time to acquire read lock : 73.09199ms
+time to release read lock : 25.98668ms
+time to acquire read lock : 50.304272ms
+time to release read lock : 30.202337ms
+time to acquire read lock : 50.938961ms
+time to release read lock : 24.902549ms
+time to acquire read lock : 56.024063ms
+time to release read lock : 37.711187ms
+time to acquire read lock : 89.297415ms
+time to release read lock : 44.293239ms
+time to acquire read lock : 56.723597ms
+time to release read lock : 28.969102ms
+time to acquire read lock : 83.100404ms
+time to release read lock : 35.418247ms
+time to acquire read lock : 90.060204ms
+time to release read lock : 39.901373ms
+time to acquire read lock : 64.206844ms
+time to release read lock : 56.183425ms
+time to acquire read lock : 62.76074ms
+time to release read lock : 26.660923ms
+time to acquire read lock : 71.983176ms
+time to release read lock : 32.067076ms
+time to acquire read lock : 119.532575ms
+time to release read lock : 51.174956ms
+time to acquire read lock : 80.534025ms
+time to release read lock : 49.027886ms
+time to acquire read lock : 67.002582ms
+time to release read lock : 65.672988ms
+time to acquire read lock : 86.997839ms
+time to release read lock : 44.971852ms
+time to acquire read lock : 87.560901ms
+time to release read lock : 35.024049ms
+time to acquire read lock : 60.014193ms
+time to release read lock : 38.433906ms
+time to acquire read lock : 67.801808ms
+time to release read lock : 28.85485ms
+time to acquire read lock : 79.392711ms
+time to release read lock : 48.491122ms
+time to acquire read lock : 86.762947ms
+time to release read lock : 39.711153ms
+time to acquire read lock : 63.087532ms
+time to release read lock : 46.146357ms
+time to acquire lock: 1.100153959s
+time to release lock: 23.335604ms
+time to acquire lock: 942.371219ms
+time to release lock: 14.02437ms
+time to acquire lock: 78.563716ms
+time to release lock: 23.115125ms
+time to acquire lock: 915.797078ms
+time to release lock: 19.718887ms
+time to acquire lock: 1.027584123s
+time to release lock: 14.048005ms
+time to acquire lock: 972.97762ms
+time to release lock: 21.90162ms
+time to acquire lock: 963.044093ms
+time to release lock: 19.057711ms
+time to acquire lock: 953.507822ms
+time to release lock: 21.607291ms
+time to acquire lock: 1.016523584s
+time to release lock: 26.647113ms
+time to acquire lock: 918.99026ms
+time to release lock: 15.042622ms
+time to acquire lock: 950.303872ms
+time to release lock: 15.682286ms
+time to acquire lock: 970.090585ms
+time to release lock: 16.351426ms
+time to acquire lock: 1.001852621s
+time to release lock: 17.819807ms
+time to acquire lock: 973.010226ms
+time to release lock: 23.80733ms
+time to acquire lock: 934.222477ms
+time to release lock: 17.945272ms
+time to acquire lock: 986.045125ms
+time to release lock: 14.767289ms
+time to acquire lock: 1.020312036s
+time to release lock: 15.452922ms
+time to acquire lock: 954.990552ms
+time to release lock: 18.476686ms
+time to acquire lock: 947.065958ms
+time to release lock: 16.981013ms
+time to acquire lock: 980.943242ms
+time to release lock: 18.973942ms
+time to acquire lock: 1.02009479s
+time to release lock: 33.000007ms
+time to acquire lock: 962.685375ms
+time to release lock: 20.468033ms
+time to acquire lock: 901.765409ms
+time to release lock: 21.987104ms
+time to acquire lock: 981.108971ms
+time to release lock: 25.069633ms
+time to acquire lock: 1.024300479s
+time to release lock: 25.971936ms
+time to acquire lock: 955.84942ms
+time to release lock: 37.638105ms
+time to acquire lock: 898.904388ms
+time to release lock: 19.129421ms
+time to acquire lock: 944.639994ms
+time to release lock: 13.513793ms
+time to acquire lock: 1.005643462s
+time to release lock: 22.164612ms
+time to acquire lock: 911.648881ms
+time to release lock: 13.717159ms
+time to acquire lock: 948.708803ms
+time to release lock: 16.48667ms
+time to acquire lock: 970.105018ms
+time to release lock: 27.385157ms
+time to acquire lock: 992.609692ms
+time to release lock: 14.512956ms
+time to acquire lock: 967.646156ms
+time to release lock: 21.493665ms
+time to acquire lock: 939.528871ms
+time to release lock: 16.132157ms
+time to acquire lock: 976.400551ms
+time to release lock: 16.116116ms
+time to acquire lock: 1.011739808s
+time to release lock: 16.838027ms
+time to acquire lock: 969.480271ms
+time to release lock: 15.88556ms
+time to acquire lock: 970.751952ms
+time to release lock: 18.730103ms
+time to acquire lock: 920.871599ms
+time to release lock: 17.173237ms
+time to acquire lock: 1.034512827s
+time to release lock: 15.659473ms
+time to acquire lock: 931.746994ms
+time to release lock: 15.579063ms
+time to acquire lock: 954.637853ms
+time to release lock: 17.393855ms
+time to acquire lock: 971.211132ms
+time to release lock: 13.731876ms
+time to acquire lock: 1.052523909s
+time to release lock: 18.328163ms
+time to acquire lock: 925.868211ms
+time to release lock: 34.238512ms
+time to acquire lock: 934.303028ms
+time to release lock: 19.419712ms
+time to acquire lock: 975.811308ms
+time to release lock: 30.20322ms
+time to acquire lock: 1.043542268s
+time to release lock: 34.682687ms
+time to acquire lock: 882.069802ms
+time to release lock: 26.563453ms
+time to acquire lock: 935.76036ms
+time to release lock: 28.184151ms
+time to acquire lock: 965.107958ms
+time to release lock: 17.834223ms
+time to acquire lock: 1.006441628s
+time to release lock: 14.072094ms
+time to acquire lock: 945.872903ms
+time to release lock: 18.865745ms
+time to acquire lock: 980.073791ms
+time to release lock: 19.808579ms
+time to acquire lock: 948.596565ms
+time to release lock: 18.439066ms
+time to acquire lock: 1.017131834s
+time to release lock: 14.741245ms
+time to acquire lock: 939.805859ms
+time to release lock: 19.454424ms
+time to acquire lock: 948.02164ms
+time to release lock: 12.75144ms
+time to acquire lock: 966.878879ms
+time to release lock: 20.959488ms
+time to acquire lock: 1.009164536s
+time to release lock: 17.216839ms
+time to acquire lock: 984.059687ms
+time to release lock: 15.820907ms
+time to acquire lock: 914.585912ms
+time to release lock: 24.846288ms
+time to acquire lock: 986.485347ms
+time to release lock: 22.130293ms
+time to acquire lock: 994.414412ms
+time to release lock: 14.54117ms
+time to acquire lock: 1.043664574s
+time to release lock: 26.548063ms
+time to acquire lock: 854.884606ms
+time to release lock: 15.812892ms
+time to acquire lock: 984.059099ms
+time to release lock: 11.691088ms
+time to acquire lock: 1.017799805s
+time to release lock: 16.215654ms
+time to acquire lock: 920.878901ms
+time to release lock: 16.735723ms
+time to acquire lock: 952.049076ms
+time to release lock: 19.824063ms
+time to acquire lock: 975.339165ms
+time to release lock: 15.101253ms
+time to acquire lock: 995.810442ms
+time to release lock: 17.388556ms
+time to acquire lock: 978.118441ms
+time to release lock: 16.505876ms
+time to acquire lock: 940.097504ms
+time to release lock: 15.818007ms
+time to acquire lock: 979.60076ms
+time to release lock: 13.5834ms
+time to acquire lock: 1.000615999s
+time to release lock: 24.167554ms
+time to acquire lock: 953.901214ms
+time to release lock: 18.47421ms
+time to acquire lock: 944.82561ms
+time to release lock: 19.112145ms
+time to acquire lock: 982.506683ms
+time to release lock: 12.193354ms
+time to acquire lock: 1.00678228s
+time to release lock: 22.840821ms
+time to acquire lock: 962.906675ms
+time to release lock: 16.603596ms
+time to acquire lock: 925.661825ms
+time to release lock: 18.414993ms
+time to acquire lock: 982.616063ms
+time to release lock: 16.000169ms
+time to acquire lock: 998.090932ms
+time to release lock: 19.00188ms
+time to acquire lock: 949.994453ms
+time to release lock: 15.251091ms
+time to acquire lock: 960.477676ms
+time to release lock: 26.411818ms
+time to acquire lock: 969.37124ms
+time to release lock: 20.660754ms
+time to acquire lock: 997.942525ms
+time to release lock: 17.48356ms
+time to acquire lock: 944.233779ms
+time to release lock: 15.224151ms
+time to acquire lock: 966.643383ms
+time to release lock: 21.19643ms
+time to acquire lock: 956.096968ms
+time to release lock: 14.436018ms
+time to acquire lock: 1.035754344s
+time to release lock: 25.97914ms
+time to acquire lock: 926.688787ms
+time to release lock: 22.161528ms
+time to acquire lock: 957.860694ms
+time to release lock: 15.910923ms
+time to acquire lock: 957.565859ms
+time to release lock: 15.035207ms
+time to acquire lock: 1.016442302s
+time to release lock: 33.157515ms
+time to acquire lock: 942.358605ms
+time to release lock: 22.592529ms
+time to acquire lock: 60.417431ms
+time to release lock: 28.681592ms
+time to acquire lock: 42.977767ms
+time to release lock: 18.499996ms
+time to acquire lock: 46.427227ms
+time to release lock: 22.717747ms
+time to acquire lock: 41.910137ms
+time to release lock: 19.633938ms
+time to acquire lock: 609.10971ms
+time to release lock: 22.105195ms
+time to acquire lock: 917.596614ms
+time to release lock: 18.465015ms
+time to acquire lock: 1.013619263s
+time to release lock: 13.332873ms
+time to acquire lock: 949.793529ms
+time to release lock: 15.538326ms
+time to acquire lock: 956.13323ms
+time to release lock: 17.090975ms
+time to acquire lock: 979.284712ms
+time to release lock: 14.839005ms
+time to acquire lock: 1.005029042s
+time to release lock: 12.909346ms
+time to acquire lock: 955.744656ms
+time to release lock: 12.141565ms
+time to acquire lock: 51.074456ms
+time to release lock: 22.010072ms
+time to acquire lock: 914.864555ms
+time to release lock: 17.549731ms
+time to acquire lock: 970.105253ms
+time to release lock: 16.023186ms
+time to acquire lock: 1.008485603s
+time to release lock: 17.637408ms
+time to acquire lock: 924.029744ms
+time to release lock: 12.398057ms
+time to acquire lock: 954.005281ms
+time to release lock: 16.330142ms
+time to acquire lock: 59.213966ms
+time to release lock: 15.680454ms
+time to acquire lock: 924.640442ms
+time to release lock: 19.168394ms
+time to acquire lock: 1.001778834s
+time to release lock: 21.982925ms
+time to acquire lock: 958.359464ms
+time to release lock: 18.026943ms
+time to acquire lock: 966.476714ms
+time to release lock: 23.010508ms
+time to acquire lock: 948.832442ms
+time to release lock: 22.939266ms
+time to acquire lock: 995.637726ms
+time to release lock: 16.915482ms
+time to acquire lock: 959.212035ms
+time to release lock: 18.385619ms
+time to acquire lock: 959.683227ms
+time to release lock: 15.331711ms
+time to acquire lock: 46.970176ms
+time to release lock: 25.860912ms
+time to acquire lock: 912.965659ms
+time to release lock: 23.383661ms
+time to acquire lock: 965.394435ms
+time to release lock: 19.428377ms
+time to acquire lock: 971.363074ms
+time to release lock: 15.959931ms
+time to acquire lock: 48.948499ms
+time to release lock: 24.972198ms
+time to acquire lock: 814.921313ms
+time to release lock: 15.941729ms
+time to acquire lock: 968.832108ms
+time to release lock: 15.425548ms
+time to acquire lock: 1.011188079s
+time to release lock: 11.947022ms
+time to acquire lock: 965.307301ms
+time to release lock: 15.670085ms
+time to acquire lock: 944.24988ms
+time to release lock: 14.004415ms
+time to acquire lock: 977.448957ms
+time to release lock: 13.756091ms
+time to acquire lock: 1.011779878s
+time to release lock: 14.024671ms
+time to acquire lock: 60.499203ms
+time to release lock: 20.82899ms
+time to acquire lock: 906.383937ms
+time to release lock: 17.076314ms
+time to acquire lock: 46.8569ms
+time to release lock: 17.032651ms
+time to acquire lock: 902.405657ms
+time to release lock: 16.153659ms
+time to acquire lock: 949.8255ms
+time to release lock: 18.470519ms
+time to acquire lock: 53.187143ms
+time to release lock: 20.318316ms
+time to acquire lock: 913.857049ms
+time to release lock: 26.013238ms
+time to acquire lock: 971.67649ms
+time to release lock: 20.839693ms
+time to acquire lock: 926.493183ms
+time to release lock: 17.836467ms
+time to acquire lock: 979.475023ms
+time to release lock: 15.13266ms
+etcdserver: requested lease not found
